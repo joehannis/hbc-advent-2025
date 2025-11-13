@@ -160,11 +160,13 @@ a:hover {
     margin: 2%;
     display: flex;
     flex-direction: column;
+    text-align: center; 
   }
 
   .description-container {
     display: flex;
     align-items: center;
+    justify-content: center;
     margin-left: 10%;
     margin-right: 10%;
   }
